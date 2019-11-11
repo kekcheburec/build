@@ -1,4 +1,4 @@
-# Armbian патч PREEMPT RT для ядра v4.19.72 #
+# Armbian с патчем PREEMPT RT для ядра v4.19.72 #
 
 **Сборка**
 

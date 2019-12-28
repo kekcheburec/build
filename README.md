@@ -3,6 +3,6 @@
 **Сборка**
 
 	apt-get -y install git
-	git clone https://github.com/romevich/build
+	git clone https://github.com/kekcheburec/build
 	cd build
 	./compile.sh docker BOARD="nanopineo" RELEASE="stretch"
